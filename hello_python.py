@@ -1,1 +1,4 @@
-print("Hello, World!!!")
+def hell(x):
+    print("Hello", x)
+
+hell('World!!!')
